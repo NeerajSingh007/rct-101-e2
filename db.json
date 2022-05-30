@@ -70,6 +70,22 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "jgjj",
+      "category": "pant",
+      "gender": "male",
+      "price": "100",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "title": "pant",
+      "category": "pant",
+      "gender": "female",
+      "price": "2000",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 11
     }
   ]
 }
